@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @roseler
-- 💞️ I’m looking to collaborate on programming especially python and cpp
+- 💞️ I’m looking to collaborate on python and cpp </br>
 - 📫 How to reach me tg/NotRoseler
 
 <!---

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @roseler
 - 💞️ I’m looking to collaborate on python and cpp </br>
-- 📫 How to reach me tg/NotRoseler
+- 📫 How to reach me tg/roseler
 
 <!---
 roseler/roseler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
